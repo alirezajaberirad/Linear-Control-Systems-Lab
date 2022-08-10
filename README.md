@@ -15,3 +15,6 @@ In this assignment, a DC motor with the physical parameter mentioned in the last
 
 ## Exp3 - Identification of DC Motor
 In this assignment, first, by using MATLAB I launched a DC motor by given parameters. Second, I found the width of the dead zone of the simulated DC motor. And in the final step, the transition function of the DC motor by analyzing the step response of the system was identified successfully.
+
+## Exp4 - DC Motor Speed Control
+In the final assignment, the transition function of the input voltage of the motor to the speed of the motor was simulated in MATLAB. Then, the effect of the proportional, proportional-integral(PI), and lag compensators on the speed of the motor was analyzed. Finally, the proportional, proportional-integral(PI), and lag controllers for controlling the speed of the motor were simulated and compared.
