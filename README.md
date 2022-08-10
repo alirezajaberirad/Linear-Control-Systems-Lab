@@ -14,3 +14,4 @@ In this part, the differences between open-loop and closed-loop versions of a sp
 In this assignment, a DC motor with the physical parameter mentioned in the last table of the "Modeling and Simulation of DC  Motors.pdf" file was created and analyzed using Simulink.
 
 ## Exp3 - Identification of DC Motor
+In this assignment, first, by using MATLAB I launched a DC motor by given parameters. Second, I found the width of the dead zone of the simulated DC motor. And in the final step, the transition function of the DC motor by analyzing the step response of the system was identified successfully.
